@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P22.Quinteiro</string>
+    <string name="app_name_next">Next</string>
+    <string name="app_name_react">React</string>
+    <string name="but_share_string">Share</string>
+    <string name="but_next_text">Next</string>
+    <string name="but_react_text">React</string>
+    <string name="empty_string">Edit text is empty</string>
+    <string name="but_sota">Sota</string>
+    <string name="but_rey">Rey</string>
+    <string name="but_caballo">Caballo</string>
+    <string name="but_clicked">Botón Pulsado: </string>
+    <string name="toast_response_public">Se ha usado la clave estándar para la respuesta</string>
+    <string name="toast_response_private">Se ha usado la clave privada para la respuesta</string>
+    <string name="toast_request_private">LLamada con clave privada</string>
+    <string name="toast_request_public">LLamada con clave pública</string>
+</resources>
