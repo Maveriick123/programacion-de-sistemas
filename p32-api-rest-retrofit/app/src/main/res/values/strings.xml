@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">P32.Quinteiro</string>
+
+    <!-- Lista -->
+    <string name="hint_make">Marca (p. ej. kawasaki)</string>
+    <string name="default_make">kawasaki</string>
+    <string name="but_search_name">Buscar</string>
+    <string name="row_subtitle">%1$s · %2$s</string>
+    <string name="list_no_results">No hay motos de esa marca</string>
+
+    <!-- Detalle -->
+    <string name="detail_title">%1$s %2$s</string>
+    <string name="detail_year">Año: %1$s</string>
+    <string name="detail_type">Tipo: %1$s</string>
+    <string name="detail_displacement">Cilindrada: %1$s</string>
+    <string name="detail_engine">Motor: %1$s</string>
+    <string name="detail_power">Potencia: %1$s</string>
+    <string name="detail_torque">Par: %1$s</string>
+    <string name="detail_gearbox">Cambio: %1$s</string>
+    <string name="detail_cooling">Refrigeración: %1$s</string>
+    <string name="detail_weight">Peso: %1$s</string>
+    <string name="detail_seat_height">Altura del asiento: %1$s</string>
+    <string name="detail_fuel">Depósito: %1$s</string>
+    <string name="detail_not_found">No se ha encontrado la ficha de esta moto</string>
+    <string name="no_data">sin datos</string>
+
+    <!-- Errores / toasts -->
+    <string name="error_make_empty">Escribe una marca</string>
+    <string name="error_no_api_key">Falta la API KEY en local.properties</string>
+    <string name="error_general">Error al conectar con el servidor</string>
+    <string name="error">Error</string>
+</resources>
