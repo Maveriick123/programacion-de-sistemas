@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">P24.Quinteiro</string>
+    <string name="but_delete_action">Se han eliminado %d elementos del RecyclerView, total: %d</string>
+    <string name="but_add_action">Se han añadido %d elementos, total: %d</string>
+    <string name="dialog_title">Añadir elementos</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_elements_default">10</string>
+    <string name="but_delete_name">Delete</string>
+    <string name="but_add_name">Add</string>
+    <string name="tile_postion">Item: %d</string>
+    <string name="but_tile_eliminar_name">Eliminar</string>
+    <string name="but_tile_editar_name">Editar</string>
+    <string name="but_tile_ok_name">Ok</string>
+    <string name="modo_edicion">Modo edición activado</string>
+    <string name="item_deleted">Elemento %d del RecyclerView eliminado, total: %d</string>
+    <string name="item_edited">Elemento %d del RecyclerView editado, total: %d </string>
+    <string name="tile_not_changed">El elemento %d no ha sido eliminado ni editado, total %d</string>
+    <string name="title_tile">"Title "</string>
+    <string name="subtitle_tile">"Subtitle "</string>
+    <string name="description_tile">"Description "</string>
+</resources>
