@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">p21.Quinteiro</string>
+    <string name="app_name2">2.Quinteiro</string>
+    <string name="but_main_string">Quinteiro</string>
+    <string name="root_string">Hola Mundo</string>
+    <string name="boton">Botón</string>
+    <string name="zero_string">0</string>
+</resources>
