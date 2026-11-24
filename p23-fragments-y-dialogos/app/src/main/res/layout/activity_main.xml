@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!--
+    <fragment
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TopFragment"
+        android:name="es.udc.psi_2025_26.p23quinteiro.TopFragment"/>
+    -->
+
+    <FrameLayout
+        android:id="@+id/top_fragm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!--Punto de anclaje tanto para WebFragment como para TextFragment-->
+    <FrameLayout
+        android:id="@+id/bottom_fragm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">P23.Quinteiro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="but_a_string">A</string>
+    <string name="but_b_string">B</string>
+    <string name="but_Url_string">URL</string>
+    <string name="but_clear_string">Clear</string>
+    <string name="default_url">https://fic.udc.es</string>
+    <string name="bad_url">"URL no válida"</string>
+    <string name="fallback_url">"Estableciendo URL de respaldo"</string>
+    <string name="dialog_title">Exit</string>
+    <string name="but_positive_dialog">Ok</string>
+    <string name="but_negative_dialog">Cancel</string>
+    <string name="but_positive_dialog_action">Exiting</string>
+    <string name="but_negative_dialog_action">Abort exit</string>
+    <string name="but_enable_text">Enable</string>
+</resources>
