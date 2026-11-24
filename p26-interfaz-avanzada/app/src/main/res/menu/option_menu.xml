@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_add"
+        android:title="@string/menu_add"
+        android:icon="@android:drawable/ic_input_add"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/menu_snack"
+        android:title="@string/menu_snack"
+        android:icon="@android:drawable/ic_dialog_info"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:id="@+id/extended_menu_clear"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/menu_clear"
+        app:showAsAction="collapseActionView"/>
+
+    <item android:id="@+id/extended_menu_msg"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/menu_msg"
+        app:showAsAction="collapseActionView"/>
+
+    <item android:id="@+id/extended_menu_fgs"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/menu_fgs"
+        app:showAsAction="collapseActionView"/>
+
+
+</menu>

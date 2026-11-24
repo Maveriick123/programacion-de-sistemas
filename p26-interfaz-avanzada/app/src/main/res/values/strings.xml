@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">P26.Quinteiro</string>
+    <string name="channel_name">Channel</string>
+    <string name="channel_description">Description Channel</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_snack">Snack</string>
+    <string name="menu_clear">Clear\n</string>
+    <string name="menu_fgs">Fgs</string>
+    <string name="menu_msg">Msg</string>
+    <string name="local_service_created">Local Service is being created</string>
+    <string name="local_service_running">Local Service Running</string>
+    <string name="local_service_destroy">Local Service Destroy</string>
+    <string name="notification_permission_denied">Permiso de notificaciones denegado</string>
+    <string name="add_notification_but_x">Botón %d</string>
+    <string name="notification_add_title">Notificación Add</string>
+    <string name="permission_denied_fgs">Permisos denegados para el foreground service</string>
+    <string name="snackbar_log_action">Log msg</string>
+    <string name="context_menu_delete">Delete</string>
+    <string name="context_menu_share">Share</string>
+    <string name="delete_item_context_menu">Delete item %d</string>
+    <string name="delete_item_action_context_menu">Item %d delete</string>
+    <string name="undo_snackbar">Undo</string>
+    <string name="context_menu_share_action">Item %d share</string>
+    <string name="undo_action">Item %d reinserted</string>
+    <string name="foreground_service_active">Foreground Service activo</string>
+    <string name="foreground_service_action_stop">Pulse aquí para detener el foreground service</string>
+    <string name="zero_lv">Zero</string>
+    <string name="one_lv">One</string>
+    <string name="two_lv">Two</string>
+    <string name="three_lv">Three</string>
+    <string name="five_lv">Five</string>
+    <string name="four_lv">Four</string>
+    <string name="six_lv">Six</string>
+    <string name="seven_lv">Seven</string>
+
+
+</resources>
